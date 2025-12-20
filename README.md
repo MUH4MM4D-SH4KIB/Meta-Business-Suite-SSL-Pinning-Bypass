@@ -1,10 +1,8 @@
 # 🔐 SSL Pinning Bypass — Meta Business Suite
 
-This repository demonstrates how SSL/TLS **certificate pinning** works in the Meta Business Suite Android app, along with a **practical example** of bypass techniques and HTTPS traffic capture.
+This repository demonstrates how SSL/TLS **certificate pinning** works in the **Meta Business Suite** Android app, along with a **practical example** of bypass techniques and HTTPS traffic capture.
 
 
-
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/9010404b-19b0-4a63-a687-e5ce73f217be" />
 
 ---
 

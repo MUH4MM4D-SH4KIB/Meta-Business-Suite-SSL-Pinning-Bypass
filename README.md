@@ -8,7 +8,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration]()
+▶️ [Watch the demonstration](https://github.com/user-attachments/assets/238f2b6c-39d1-4fbc-bf43-6ee0190a7990)
 
 ---
 

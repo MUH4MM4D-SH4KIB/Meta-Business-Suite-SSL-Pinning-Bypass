@@ -13,7 +13,8 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 ---
 
 ## ⚙️ Supported Architectures
-- **arm64 / aarch64**
+- **arm64-v8a**
+- **x86_64**
 ---
 ## Meta Business Suite App Version 
 - **534.0.0.54.109**

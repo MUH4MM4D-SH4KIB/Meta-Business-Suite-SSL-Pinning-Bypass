@@ -1,6 +1,6 @@
 # 🔐 SSL Pinning Bypass Meta Business Suite
 
-This repository shows how to Bypass Meta Business Suite SSL Pinning and intercept Meta Business Suite Traffic.
+Meta Business Suite SSL Pinning Bypass and intercept Meta Business Suite Traffic.
 
 
 
@@ -45,7 +45,6 @@ https://github.com/user-attachments/assets/238f2b6c-39d1-4fbc-bf43-6ee0190a7990
 
 3. Use Proxypin / Reqable / Burp Suite / Mitmproxy for capturing traffics.
 
-keyword:Meta Business Suite SSL 证书绕过, تجاوز تثبيت شهادة SSL في مجموعة برامج Meta Business Suite
 ## For latest patched libstartup.so contract with me.
 <a href="https://t.me/MUH4MM4DSH4KIB" target="_blank">
   <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
